@@ -1,2 +1,3 @@
 com\qeepchat\controller\QeepController.class
-com\qeepchat\model\Blog.class
+com\qeepchat\model\Black.class
+com\qeepchat\model\Hello.class
