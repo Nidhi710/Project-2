@@ -1,3 +1,6 @@
+com\qeepchat\model\User.class
+com\qeepchat\dao\UserDAO.class
 com\qeepchat\controller\QeepController.class
-com\qeepchat\model\Black.class
-com\qeepchat\model\Hello.class
+com\qeepchat\controller\UserController.class
+com\qeepchat\dao\UserDAOImpl.class
+com\qeepchat\service\UserService.class

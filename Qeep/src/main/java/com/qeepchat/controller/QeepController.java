@@ -8,7 +8,11 @@ public class QeepController {
 	public String getindex(){
 		return"index";
 	}
-
+	@RequestMapping("/userpage")
+	public String user(){
+		return"user";
+	}
+	
 }
 
 
